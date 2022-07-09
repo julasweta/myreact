@@ -1,9 +1,8 @@
-# Getting Started with Create React App
-********************************************
+# [MyReact - Work](https://julasweta.github.io/myreact/)
+*************************************************
 
-[MyReact - Work](https://julasweta.github.io/myreact/).
 
-# Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
