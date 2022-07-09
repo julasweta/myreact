@@ -1,4 +1,5 @@
-# [MyReact - Work](https://julasweta.github.io/myreact/) - Project Page
+# My React Project "Work"
+[Project Page](https://julasweta.github.io/myreact/) 
 *************************************************
 
 
